@@ -35,4 +35,5 @@ def main():
             print("Неизвестный тип файла или Text file")
         what = input("\nНажмите Enter, чтобы проверить другой файл...")
 
-
+if __name__ == "__main__":
+    main()
