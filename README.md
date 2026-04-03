@@ -19,6 +19,6 @@
 2. Склонируйте репозиторий или скачайте файл скрипта.
 3. Запустите скрипт через терминал:
 ```bash
-  python main.py
+  python file_type_identifier.py
 ```
 4. Введите путь к исследуемому файлу (например: test.pdf или /home/user/Downloads/file).
